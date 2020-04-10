@@ -25,7 +25,7 @@ After running `npm start` visit: ```http://localhost:8000``` in your browser. Yo
 
 ### src directory
 
-Add your project files to the src directory. Only files in this directory will included in the project build!
+Add your project files to the src directory. Only files in this directory will be included in the project build!
 
 Updating and saving files in this folder will automatically rebuild the project and reload the project in the browser!
 
