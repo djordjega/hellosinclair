@@ -1,6 +1,4 @@
-# Phaser 3 Webpack Project Template
-
-A Phaser 3 Project Template
+# Phaser 3 Project
 
 ## Requirements
 
