@@ -1,0 +1,23 @@
+{
+  "name": "hellosinclair",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production",
+    "start": "npm run build && webpack-dev-server --port=8000 --mode development"
+  },
+  "keywords": [],
+  "author": "Djordje Gavrilovic",
+  "license": "ISC",
+  "devDependencies": {
+    "raw-loader": "^0.5.1",
+    "webpack": "^4.39.0",
+    "webpack-cli": "^3.3.6",
+    "webpack-dev-server": "^3.7.2"
+  },
+  "dependencies": {
+    "phaser": "^3.18.1"
+  }
+}
